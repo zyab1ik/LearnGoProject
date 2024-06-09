@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: task.go
+    visible: true
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gbO+I0gX/TX3ZOVSDPpKHT7lPqZku6g9s6WAcJjcWtCRGZYo7PI2Zf72eVHfmucldpJeH+3hAGCeflLVKhv756QbXxrFa21BhNW5TH1gyOzuGoGJmHlFam6jqtjE8kvKFjMNDMJsgigJXXOFlVjfySc83Puc4iMQz+InLEiwI6HADUiw0jxETKIVz2XalyHj3pyBOYZaIjSYbQ2wh6dXi8/NYaOmLLI/XNrcbFZZMCxPPTTnMv8/f4gTGYkuIHRcX877rSYJjuieg8c1LaO0A4yx6UNAc1TXyuYDtnRhsV0yn/l5fnWLyWBfBZjKE0IbF8XaZkCW1ApNGMnUE/PH4QxKM0JiGQztJ8Qs+ti2uaiPTG9rupLPwTpJW3xju+tQDK9qLdDFo9QVJ/KIOhuPQj1IZSu2snIgkU7O1ahVWFK1vXyd/LRvkibxtwKFNZajduwOizFRK+IzdIY4uWRHxe5iB4poiHOzILV77b5jTgYUemfyr91wHtzc/UrLLCnCyRe8JGlKdY7XV3Mn3HAACCQ=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: 4jMU95d2cPlvaDDUj0LbOxPhhWHK+35tljw6zcPdi2M=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

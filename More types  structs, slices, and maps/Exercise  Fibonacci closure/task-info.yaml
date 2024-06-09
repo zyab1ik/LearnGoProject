@@ -1,0 +1,28 @@
+type: output
+custom_name: "Exercise: Fibonacci closure"
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 134
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 134
+        initialized_from_dependency: false
+        encrypted_possible_answer: ejZFv56JxRkkErHCHwMT/F4rjJfDV6tMAUWwn40UL50n99ImpzoJvuBbZZPeTN6NOMsSWDvjt67BlNTbGwp1LA==
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gbieHus2jwqvrQQ3SO+UL3I/cHBMkAYIhtQxJ8wMItoatwpf3TXavaNfnSG60I5TtqaepcwiB60HgDaqWcHpIJmrpEIV5BDvwwNEAZVQ9KHOMTSTKvZYOGjMALR15gI/Is+mR1vEAyp0wzzqSBzqkEr77w7HwD2QUoYu9+6k40BHunlwhGi0Rri2yslt+ov0YPJhhQORgLmCdcEcFwUk3GkLG5igAN8HyRaLcycXX5cwLyG05kTfk0OGZUVO8GC2etb8GzWOiqYi4OUdRNMFN+qYdJ9XlilO+/NqVz+p/FP0
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: Um7Tese/uJmoWEIkWY7F91T6DSx3LLjMOvaY9jKYnz03+qkgT3X+tCkowrwZj/WJ
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: x8KeC3wKHRdLZgRg8yZRnOYvs4QRXhjFDzxYiVsv/68=
+    learner_created: false
+status: Unchecked
+record: -1

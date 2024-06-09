@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 514
+        length: 7
+        placeholder_text: '*Vertex'
+        initial_state:
+          length: 7
+          offset: 514
+        initialized_from_dependency: false
+        encrypted_possible_answer: laqdYt8Gt83Nu1Yn9hBlHg==
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gbO+I0gX/TX3ZOVSDPpKHT4bCR0XfhQrBfy/JK0DDqIzYKqhmz38ql9h6mXA2BEa08P/k3/+sIpA9eXv6xoOtUo1ih3pttUHdp9Y0VEEvtO1uMVkgR+HMHQTd9XJ+TyrO9k1VDfBeMc3HVlr1/xYqKoONmnB0NOgYE8WZM5XnaeutlzJ0u2j8SedGorQrOWN3pjQrIAjHFW4Yu5Xj0WKTchjSpqplqAQkjxQElvLRQyZpJD9cXoNmlIg1Wye/SUuH/q3DlOvorJmeMEw4mB9Z7d7OxZ73/crWnFL7yNzBL4MulZFsy+2mQohTrb4nahfnehrqpacfxftpwjbyv6Wf/HgUgSinnHdIWvVK5jnT3UGglNdxcGeXqJjLBN9gMvlwH36dMCmvXdzq6pE+NoFpOZLrt/S+4E2UE4RVindF7ZE24TLgYxRf17vtEOW++XqOmYDyPtgWuNNUXwAbFjD/fa2FeAF1HJ0THHjVjYhiWTf/M694eodsMwKue/5gEebvMvDAfsGwrOE7jYv8rRVbpqzh4L5pBYxP2J5+as4OecPje3XMaGWjHQmitku9CjcgUuzQIDkpVhNw5DOOVzKZQzmZ5XFwDD7tGG2dAgGidbpHx5SeDoPHD06zt5NP7OBJiTshRfKvItX5D38WYda0mP82TkzIWWUF0OqnfEGreb+8TTxS80AA9e9QqwKWpUW6fHUigZRk0FiyOv5WAKimuExadR9orQR26dWItp3aKoSJI7pV9yjJaT+QO48rvuytQ==
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: YL14Lj+FLyP159ZoMpEWVh10R2deupW4Ea7wHm8Vf4c=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: KxwYGk9WsNi/CLbn8gL24w==
+    learner_created: false
+status: Unchecked
+record: -1

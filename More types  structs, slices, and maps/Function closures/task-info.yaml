@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: task.go
+    visible: true
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gcCdrTwS8/pH2KN4r8NUxMkVRexXI+HyVWRe1uv3vXtcl54B+1l5hT0vritpneXkP1cfyvwTNnuSGYMg7NzodvdC2JH3vvCHxc1L9gReCp2F/ookdCdqrT4AB3yaRWyjoI0EtqE2bNnBImCJPuRHaxd/Yb0RcBpPJaheFu8l9p2zyxZRpDtpnGHa/Y6DVfs72TJiiS8miaz4xXg8MHZVQAYIJGVUTLs08cY/xpNevUwK6BoMsoCiDfKOa0ie5Fwp8qosGFS5z4j8dfgTPyArGiizPBXXyVyBf4n6NeSrU5wzgGX8GmAMgWZYXKwstCcJuw==
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: dXo+FYyoQBidgCtyFoMPSeGrM1m+lsewtfsEP2MP44U=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

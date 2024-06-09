@@ -1,0 +1,52 @@
+type: output
+custom_name: "Exercise: Images"
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 96
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 96
+        initialized_from_dependency: false
+        encrypted_possible_answer: hgxPILZEf2fI4eNQ1u/Q2V3l91mJke3U6qzY87U6qAw=
+        selected: false
+        status: Unchecked
+      - offset: 110
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 110
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8T3oc1kOdbH9tUDtCMqKjxO4tPrR+V84HOXm762JP/fuk7TxdvsVHAjtmLLNwgi1b3aCFkiSvajGPrApqrVD/gLCkvwQkm7CPRFNCgbz1IUMfHJIjSU5yMLZ8kbVLK74xEt8HtmZu1NAv33xAVGruIg2OrL2IaR97/n5gm+kh3dFectXXAfAosXHOpSDZRWCGN3x5j/++G0eNhKt8l2p6h35c8PhhuNaN54zKkP5nXaSS3p1nWOM+oxWQcx1DSGKBdk7qOdlkQdbdd5W6Hw/aGxny6kFpWl3qNWD/JzRwkUS7wur89ySK0nFTb3GZlWvMATPe8YU/aNGEpFKLwkHHA==
+        selected: false
+        status: Unchecked
+      - offset: 148
+        length: 54
+        placeholder_text: "/* Insert dimensions here (for example, \"256, 256\") */"
+        initial_state:
+          length: 54
+          offset: 148
+        initialized_from_dependency: false
+        encrypted_possible_answer: NPe7R03690gmkQJ6IlX6Pg==
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gYHQZM+P5GMzD74q/jKha6AFHbUCotbcvuMpVwdkymk1cj1ccCmOuvOfuP3opxkadsXhdu51He3WxceFrgTJ9Ho96pi7KndYjeDwGi3xQVNxSXXP2FQGDTzikfLqWl7yHAKZBuecHIpAAG4FibBcvAOsfx0ET2cekeFe4Z+GPrZgEhuGfStcdwXmDv+gTkpZMryV92uxTD2+dFmB8iOnUAFSRQe+JCf7rcvg9SrEjv0BHRuvFmSv5ZXMo9VP0TfEidRf/1UwhXs9M0z0+BH41Ipxz1m1CA0kMdHKg294WE/T
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: dpUhnS7Kp3qSNuAIebvkZ3Av6FYBiwBpsOiAvEgQ4PM=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: 7m1Nr0leWSViYJz6alW5R4QZgvfYclsigphIf/90QRTbORqNjYjEbAYtPkyxUTXqDoyeZQOofA9bhPtHoIAQBKcHh9rsEx+mnnHTxCRqZxcB08SNiOcryYdPRa4laoUEmArwO1V5A+rgv4qRxU6Te/mKzNLv7SaZ8/mbWIPX5PYrX0nz+QaD3TJbTvcQ8zZ2Xd33UcIJnlhpKkGDkdK5KI974qo7yq53mHsaTjccPW9LCkehU1o3dThGA2/ddpAEjJuKBV/3fg0YiZ6nqxaOUhfQYzhXijTHf1noQbwX+XY2pKzKXriPXNPRa4eYMazgN0WthzUQ0St8EATEZAuLMHUnFSyIYL2gol8wyujUbuxQuhDYLBfgccatHPhrKUlpY/FgnQVVn4xWTCAqBj3Pa5BBlh8sQG9gK5b2u9ZUESrByK8SJhMevLz3ehZUMPp2FMjLpSDrfPTi00TPDZKOGVdM4set1qC2HciyL+ok5GevgJ581ZgjDNITN4Cscle3FjEChgfOpJ1bb/CSVSnTx0Z8ZD7AbhAzfH9/nP5+ogFHz53IOYt+8I6X+KuNWUe2b5NNop1VqgcUZe6fVdTzwSMP6068Pn77x1N1Dxb7zaftbP4re3ss5ycxCadfVjOPG8dSngmJhKfa9O51nLxG7XnQkApB58ZGCJ3YWJGwYHbZZUs49gpcjwefbuOd8QHuaJIrvyxbyKTm8i0eAQ+bSWNKGOFahYb6G7YrF7hykgQ8XzvxInEeMjhjep6O9pkIljTO9+8zwknVA3DaxVCmfwvH+2ImLjxSlB5yUHqMfTVQNsmPx8LExkP4MOXo80AEX1cvC3Qnvy7db2K8L+MrsQjebMnBQqqBs6BB5hvZEatjshqagZq3DdRUnDMY1wKolRjGOALX1oLyfLltvU7qowNogK1ZHlRInWYDzpYaljRUwLTbwG6Feeb8CQgSHkOWPy8HqTJCpQVyrcoOW3JadvsRoA6s/wmKQWrFtucQ4zS9MmlCIsw/ZCKiLjZz76jP1ormdJEAfQ4L54T/Rk764beK0U8xn3Uc/RxhTJt9+OwKLQwEKC1n1pSligFkeA1jKb6KA6jgWgRjA3VebpSXZ1XDUMMO480CYkdmivTyUqAfRJk5JHxL90Gh4dNEU16fGPOr6iywqwCXaQecJEyL+SeYMbLd4dlpaEWLo2SN81GLVmdYMCDpv0hsgXhH8CaXs8Le9gBfM+C7k7dw+Dor2fOKbg3jo+ELsrXlqubaP+KpXxqYX206tE65wQhkgsyvxzO+9NCgxpC/vmWSToTj+91YGd3L75tJwypRN0otRz9nERF1Fapufrlkhn1rFd1+E0nDm2MGYsBdM6fksAPOknfAQZk7hNj113ZbSYkAjpEuwa5CHrUGNX1aWP/aFJVGNkjZBq4odpRpdamkG0I52UKmXiCC74B3mepE3A9uyw9M9I1LQoALzwTF+dSwKEJoSRqwThbN33T/DNsbEMbYNZwu2GLmz2H0G9v5lbh7A/vs8TEKe8oVZ/tXrBSQILZJbVlInDUTZMV/gkt1F+Jtrcmbqg3vcdWDi169fzchOHmNiUkL88tghwWKlJ0vfkq7NhdNdLhS5Cecy5i5jVoH9KvrBrETy0K3dO7P+8Vj6RcOVZBVx9Fn7KxLc3Z4DIdlHx5WLJmip9c8KBt8ud/VNOJsm0iFUGTtWq6VMwjYxBaT1QHfDk42zxdRznJ4JY8Aug2vcFOx1jlPZF0doXuC7fMuxOQiphifKqkaNjM6Vq2FXgHe7rDjXRHOP0ebKxSd14xhriSH1r0ex/0wnasuCKGSxDIGL9slS0PAQHzLbmxzHKVxMvH8/NuFmZrXc0gSOCb5XTtGwtx1n0cx2x5B+vbhKuBMPm9fiNjJXlCk1xQmnPohh/EDn7FKN3toPszt2xKeyIBSXvEVUBjNY9aQ3mMv1Pm6yHDktQIQSAPgHOU=
+    learner_created: false
+  - name: go.sum
+    visible: true
+    encrypted_text: sFctM2eQ6AAZ4gfp9o5ZC1d7xHE/OBHeEeLnHBL/jgca1GII81s8K3uuPEB7s7yiBBckOHhWcFlPsmsf2GWiAgb1iwugrnmz0WeEKc/UJozD5nlYIoAnSpyJGjTcStCcmpEhfGMJ9ROIj47Bv1z6c4aYtD0iMiDGPLp7P5+RKv7f/WzE0T29tlKvSiP4k5LpcZsHjz/fvZDVHidpsEB5JQ==
+    learner_created: false
+status: Unchecked
+record: -1

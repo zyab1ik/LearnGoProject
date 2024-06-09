@@ -1,0 +1,33 @@
+type: output
+custom_name: "Exercise: Readers"
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 73
+        length: 106
+        placeholder_text: "// TODO: Implement a Read method for the MyReader type. The\
+      \ method should return \"int\" and \"error\" values."
+        initial_state:
+          length: 106
+          offset: 73
+        initialized_from_dependency: false
+        encrypted_possible_answer: 94pBusalkN/bPL94CtVnBqjDZUQMMqDczejGRhwHVF6R9yDbGuRQ8SEi9l2ZoP1dUSxSSWWPqWh09i4J30imd3AJBHUi80NoCjQh66g9h2zIujL+cU+x1gLI2IcKtqlV8UhDcY1YST34NNjlArIo7g==
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gcMRK3TAWITJ3tzKoMEd4ymZjgBSSgIw0cwqTUVWywxkO0drLf+8XmIjjSpLfWaQSySDWFZMv6j3+VNSsbMNivG/z/zyuuTNj3ZFz6ky6pLXWp8IgFfXfXoLN74YBeV4GgCZvJEWM7wdgKkpjFIBAOFJehiVhnP5ILcThndiEdyMT0B6ierRHan8NBoH6eT/4pkrgVpC+Z82HFaJZSrRAPbPI9AjNI3jEfEBTdVdzQs5F+cwU9Z7j4KiSDS9ZvQGQglwvsS4LF7NZhMUCu1XoYAg1CNrWqKa4be0YRE46vVr
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: l3GtlavAPmxFAtmOZAuTBdzaupvGPFPjO5iozo59sMw=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: /VqvI0oKhHLicIapS1d4Fw==
+    learner_created: false
+  - name: go.sum
+    visible: true
+    encrypted_text: sFctM2eQ6AAZ4gfp9o5ZC1d7xHE/OBHeEeLnHBL/jgca1GII81s8K3uuPEB7s7yiBBckOHhWcFlPsmsf2GWiAgb1iwugrnmz0WeEKc/UJozD5nlYIoAnSpyJGjTcStCcmpEhfGMJ9ROIj47Bv1z6c4aYtD0iMiDGPLp7P5+RKv7f/WzE0T29tlKvSiP4k5LpcZsHjz/fvZDVHidpsEB5JQ==
+    learner_created: false
+status: Unchecked
+record: -1

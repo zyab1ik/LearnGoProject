@@ -1,0 +1,29 @@
+type: output
+custom_name: "Exercise: Stringers"
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 126
+        placeholder_text: "// TODO: Add a \"String\" method that is defined on values\
+      \ of type \"IPAddr\" (with \"ip\" being the receiver) and returns a string."
+        initial_state:
+          length: 126
+          offset: 49
+        initialized_from_dependency: false
+        encrypted_possible_answer: jb8va7/mPZvZsInUrZKNH/QVr0AnDel78JhkC6Dam9g2QkZHtRcyxqmyjpkrtFwzxXthTH6SnAq7RkvdTJqRS4Ll5uUuffspsnuive5zI/XbXvHg3qOp2wWHjqCTITM53JUEUzObH9L9ijX8fJDfTg==
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gXZNrhJn3jWSBom3M+KjRgJp/uMrnG8ZQ/z7UfJVXbl70HXAcKNUnDzs9ivO1mf3pz/kB1biIQ4+ZJ+9SvhKmVuFQy3okqlqCtnZy32O8QY3m7ahEXJLt41QvWTcHjC/tU8BIguXE7CyxWKHimgLJ19kbqEqp14MF6OsXv8oG2AMMp4kBz5Ypz0ZkwxVC5L0O3evjaRx1mGp/dSDPq4szvow7krLmzBqAysTwwfbeLvKBQND1m54XGip/DA+OlnvpQtEapaJEO/Ff0LHG19eBYyWfPPt/6PH+xtr7Z2RBD5m6qPmjmwLAf+o3wqooZq/d7vaCagWyI6T+YOWulfkYDocDL2ZiHSOEZalgytTcaNwvMWvprE0BRscVMhndNBFyw7lGrNykHX64EYmv63Dx8oWFpXhqLsCYwrxbIcuNlWkYC5GChq/ruQ1QLmROPPABFEycujb9rZnD6axFBrRDqQ=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: AOHsZFcJa4NgqYy2UtwHPW2N5U2UbcCYOGgg/IzSiEk=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: YqWxJD/RkQ25O65TjtPcZLC0A04RufiUVD3E7McSTMu6i8uf7s12APAjst+pXuAV
+    learner_created: false
+status: Unchecked
+record: -1

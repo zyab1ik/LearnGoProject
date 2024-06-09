@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: task.go
+    visible: true
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gbO+I0gX/TX3ZOVSDPpKHT6wF/rq59bhrziWzac72n3m27HYVA3juVW5919VcGgyTfw3UbiEDGhmp5c5tkjeANMOhcBvCgD40UQ570xLkQIUkmX2D9xHAvJDyrUDD0RGLfIM4auY5C71RKTZ2ekmEgw=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: ha0DCh1iaYbgofH/GTJihaxdoKMs+KMbuiwPoTbk+KU=
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

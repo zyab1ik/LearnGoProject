@@ -1,0 +1,14 @@
+type: theory
+custom_name: Where to Go from here...
+files:
+  - name: task.go
+    visible: true
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gcCdrTwS8/pH2KN4r8NUxMkztpnd1+4GKFlU+kSdFQpBPiqOjv7YiWfQD9LiPq1LcgZFheu1gKEUx+CA5L2pGA8=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: 2QUk5c3VCciFFqhoySeYRJarU4a5iOlcV7nr/3B6eZ4=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

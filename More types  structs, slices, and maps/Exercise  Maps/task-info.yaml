@@ -1,0 +1,32 @@
+type: output
+custom_name: "Exercise: Maps"
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 93
+        length: 29
+        placeholder_text: "return map[string]int{\"x\": 1}"
+        initial_state:
+          length: 29
+          offset: 93
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z+t+KXSjxHps7KbTu1Gvi6JIPj0ZTfF6mPd6cH5CSARpG9E6ADACnFFg7Sy8hpn0P2O8kpoHGJ+QK03FVD2S6qqkjx7T90clULqb/0/IoLqYmaP+Wff9h5QxoXOrX/UC
+        selected: false
+        status: Unchecked
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gYHQZM+P5GMzD74q/jKha6BNCQaPCjPbjaDK769e47VoRzyIPV2XhDUJeJv72i6G1x6phWdebSmJqqWfNetUbTtKE9WJkbA21kQ4npN+2xWcp/YCJWr+Mda7yhWNMjgZyxXqAKEVR63E8AwHiDjZy9zR4y85MEun6MbtNJU+S+nchMg0nlNjWNTxNDStfI/lj3o5ZLNZlOgB8NWvN2yPKbw=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: EusJ2+YNX0enqxgsYnmqN48zUlcszQe97CRkXwUexW0=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: bftL092HRRrAiTQlkZ/JzYqrTXU4C6gpflZe12VEtZMy/1JMrSivF66EhHXPC0pRuiwfQRRpcVVPG+MfYvnh8vnaYWiA6WkbLcQKUdnajuWWrIPVt7aZv6wuH6dtZcmtAoVUtxDO4yJ8LEtzp8nrWM78jBabCJkCxCOUyvDY+YXNRo2IBMa8FAtFy7f3tRhZbvSiPtU9MWwjPJ0nzQD+QFmwaRg4aKf3lyV0JOtao0aTj505RWsKY8dwnLakADLzc6ZNuuwzWMOQDlX0HjwUbDCXN4EFhiMkWZPy4aSlYEycrZYddSbI0m4nneGTfe4MRf0HmUBm+cZQp2jQ3KKdSpdwtrqkyitc46+AyOilzLHv+4SUOHyTOoQgBkEMhrqxnL1EuRyP67KJ+Y9yzu281z/mFR+eMngZeHAIyFeuyqJ1+SQccD3l8nuNE0iWSXxlnIRkZ8xEf6/zQ3xGCFHNi4U6041Kp3fqvZygy2r0BZbNRAUhoubImRVVTcEV5slwMcHKLvttRzlwNiTWMkgSLfADC6AxaCVSvNo7nkTud/cP3dfLuRKKrrct2nZ16KKZkAHnqtqR0awFmsywZGcoeV3P38WeWQ4GmRqfvvM4mLcvRu433VCyRd9ju6LIFK9vbltqo0tNOXGjn4NcHzaiGQ2oZPRZsjWJPTnPszyYaZQ=
+    learner_created: false
+  - name: go.sum
+    visible: true
+    encrypted_text: sFctM2eQ6AAZ4gfp9o5ZC1d7xHE/OBHeEeLnHBL/jgca1GII81s8K3uuPEB7s7yiBBckOHhWcFlPsmsf2GWiAgb1iwugrnmz0WeEKc/UJozD5nlYIoAnSpyJGjTcStCcmpEhfGMJ9ROIj47Bv1z6c4aYtD0iMiDGPLp7P5+RKv7f/WzE0T29tlKvSiP4k5LpcZsHjz/fvZDVHidpsEB5JQ==
+    learner_created: false
+status: Unchecked
+record: -1

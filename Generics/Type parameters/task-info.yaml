@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: task.go
+    visible: true
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gYJlsM8jK6ZEIhN8pNoERs/D+UHWHrNw8+UIAiNbm2n8JDuWSWXcfdd8a0wPAxFAUCTuognqUZapCyAs4fscFAeprWD0p3yKzWiMTducaSMRUq2scGREA7MiR38lrWOLYPPgVcHxQWiCuyTX6e3rwQidKspiOiu2WsGShF9Tr+XIw+YLLmCb8Gy1Q9pN/0j8AZwZCM/Mkr2i6LLzy//WoxT/6BdT/3KhfVvWRyicW5Y07SYQeFbbh6HyWJg8WwRFm1iIcGbaMisMdqv4VLnV2EPh9+JZc5xamPWAPZLTNpi2KGKx9yTzNHQjSobrpg3Y5WpKEn4v/GKE1V6G8aKp0lMB7SemtqPd9+I/RgOYoPyXpyKjh5Gt2gETfqHIfhasL7H6lF/kP8He5r/4SHNLnprm2Y6IdnaPgAEJJx52tsiXAS19sLhFnncSyi5xuJ1SBqi+y9bTn1Ap3tnJnkTIBe446otk56P3qmxW6ZZLpAbe50WJptfT3scY9HqxcaagEoBLJvQPOUfy4jJ6Day9kgBAflJcYuaG5RAcYGuQFiDY0h1Qzq5uFYkkTgPYAJJYBgJDz1GjPgSutGuzAgJ2UtXcuTBGhmkQqo4Z+Xho7Pot8aVg5tYkDfdUoItL7kFu4wMbiyBPlu78RGgTMjgwVEuAIV2buAIJgQxfhYkKHHwT
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: mRf2JmqagD3why6+VwiQ7nFVblkm+3JonG3BjiZBvrE=
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

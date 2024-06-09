@@ -1,0 +1,28 @@
+type: output
+files:
+  - name: task.go
+    visible: true
+    placeholders:
+      - offset: 68
+        length: 7
+        placeholder_text: math.pi
+        initial_state:
+          length: 7
+          offset: 68
+        initialized_from_dependency: false
+        encrypted_possible_answer: eSSmjJpEnePeIUIzYyV+XA==
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: spHF+UrSKYtNYvkD1eo8gbO+I0gX/TX3ZOVSDPpKHT6wF/rq59bhrziWzac72n3m27HYVA3juVW5919VcGgyTT4WgXT8xePp6Jom7gJyBMQ=
+    learner_created: false
+  - name: go.mod
+    visible: false
+    encrypted_text: VTMCUbB83CjBIcCoVIBrwdAihhUeBbpR4c/OOyXQIOo=
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: g9hb6Lu6fqEyLsGozf6ZBjo7SqBe+98G2baIct++WMA=
+    learner_created: false
+status: Solved
+record: -1
